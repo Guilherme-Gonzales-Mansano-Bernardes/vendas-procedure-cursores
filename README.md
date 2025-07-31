@@ -3,7 +3,7 @@ Projeto MySQL que demonstra o uso de cursores dentro de procedures para processa
 
 ## Passo 1: Criação do banco e da tabela
 
-![Criação do banco e tabela](C:\Users\Guilherme Dev\Desktop\gith/Steap1.png)
+![Criação do banco e tabela](Steap1.png)
 
 Legenda:  
 Criamos o banco de dados com o comando **CREATE DATABASE CURSORES;** para armazenar o projeto.  
